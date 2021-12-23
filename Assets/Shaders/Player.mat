@@ -32,7 +32,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - colorValue: 0.0000000027480414
+    - colorValue: 6e-45
     m_Colors:
     - Color_2ca037e3406745babc086f086fcdd312: {r: 1, g: 0.3947381, b: 0, a: 0}
     - Color_d6b5e99010ab4742b0fb562a4ab98d72: {r: 1, g: 0.736856, b: 0, a: 0}
